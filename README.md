@@ -6,13 +6,13 @@
 Main Page: - You can select your country, income Year and enter income here.
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/MainPage.PNG)
 
-Result Page - if income is more than 180,000:
+Result Page - if income is greater than 180,000:
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage1.PNG)
 
-Result Page - if income is greater than 121,000 but less than 180,000:
+Result Page - if income is greater than 120,001 but less than 180,000:
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage2.PNG)
 
-Result Page - if income is greater than 45,001,000 but less than 120,000:
+Result Page - if income is greater than 45,001 but less than 120,000:
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage3.PNG)
 
 the estimated taxable income will be calculated automatically when you enter your total income.
