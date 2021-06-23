@@ -1,3 +1,38 @@
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/Tednology.png)
+# This project is my first interview in Australia
+
+## How my application looks like:
+
+Main Page:
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/MainPage.png)
+
+Result Page - if income is more than 180,000:
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage.png)
+
+Result Page - if income is greater than 121,000 but less than 180,000:
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage2.png)
+
+Result Page - if income is greater than 45,001,000 but less than 120,000:
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage3.png)
+
+the estimated taxable income will be calculated automatically when you enter your total income.
+
+and I followed the rule from Australia Government. (https://www.ato.gov.au/rates/individual-income-tax-rates/)
+
+## Their Excercise:
+
+The solution can be in either React, Vue, Svelte or Angular 9+ (preferred).
+chose one of the frontend framework to complete this exercise.
+
+- [x] React
+- [ ] Vue
+- [ ] Angular
+- [ ] Svelte
+
+To be considered a valid solution the application should take in input appropriately and perform the tax calculation correctly for at least one country and income year. As there is no API provided for this task the calculation can be implemented on the frontend. 
+
+# How to use this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
