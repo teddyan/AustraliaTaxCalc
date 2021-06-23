@@ -7,7 +7,7 @@ Main Page: - You can enter your country, income Year and income here.
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/MainPage.PNG)
 
 Result Page - if income is more than 180,000:
-![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage.PNG)
+![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage1.PNG)
 
 Result Page - if income is greater than 121,000 but less than 180,000:
 ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/ResultPage2.PNG)
