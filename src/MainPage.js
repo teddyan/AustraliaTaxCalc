@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { withRouter, ReactDOM } from 'react-router-dom';
 import InfoOutlinedIcon from '@material-ui/icons/InfoOutlined';
 
+
 class MainPage extends Component {
     constructor(props) {
         super(props);
@@ -48,14 +49,16 @@ class MainPage extends Component {
     render() {
         return ( 
             <div class="card">
+             
+              
             <div class="CardLeft">
               <div class="Heading">
-                <p>Tax-o-tron</p>
+                <p>Tax Calc</p>
                 </div>
           <div class="Sub-Heading">
             <p>The free and simple online tax calculator. </p>
           </div>
-          <div class="moon" />
+          <div class="tednology" />
           <div class="Planetoid" />
         </div>
         <div class="InfoBox">
